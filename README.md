@@ -1,67 +1,39 @@
-# 💼 Mannimala Srinivasulu - Portfolio Website
+# Srinu — Professional Portfolio
 
-Welcome to my personal portfolio website!
+A responsive, dark-theme personal portfolio built with plain HTML, CSS, and JavaScript. It presents software testing / QA and web development interests, skills, projects, education, training, and contact details.
 
-This portfolio showcases my skills, projects, and contact information.
+## Files
 
-## 🚀 About Me
+- `index.html` — page structure and portfolio content
+- `style.css` — dark responsive design and layout
+- `script.js` — mobile navigation, rotating role text, contact email helper, and current year
 
-Hi, I'm **Mannimala Srinivasulu**, a B.Tech Graduate passionate about:
+## Run locally
 
-- 📊 Data Analytics
-- 🗄 SQL
-- 📈 Excel
-- 📊 Tableau
-- 💻 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- ☕ Java
-- 🐍 Python
-- 🌐 Git & GitHub
+1. Extract this ZIP file.
+2. Open the `srinu-professional-portfolio` folder in VS Code.
+3. Open `index.html` in your browser, or use the VS Code Live Server extension.
+4. Check the navigation, responsive layout, GitHub/LinkedIn links, and contact form.
 
-I enjoy building real-world projects and continuously learning new technologies.
+No build step or package installation is required.
 
----
+## Before publishing
 
-## 🛠 Technologies Used
+- Check all personal information and wording carefully.
+- Add a downloadable resume PDF if you want a resume button/link.
+- Add correct GitHub repository or live-demo URLs for each project. The AI Q&A and Excel dashboard cards currently describe the work but do not claim a repository URL.
+- Add a profile photo if desired; the current design intentionally uses a CSS/code illustration instead.
+- Test the page on a phone and desktop.
+- The contact form uses `mailto:` to prepare an email in the visitor's email app. It does not submit to a server or store messages.
 
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome
+## Publish with GitHub Pages
 
----
+1. Create or open your GitHub repository (for example, `portfolio-website`).
+2. Upload `index.html`, `style.css`, `script.js`, and `README.md` to the repository root.
+3. In GitHub, open **Settings → Pages**.
+4. Under build/deployment, select deployment from the `main` branch and the root folder, then save.
+5. Wait for the published URL shown in the Pages settings. Open it and test every section.
 
-## 📂 Projects
+## Technologies
 
-- 🌐 Personal Portfolio Website
-- 📊 SQL Sales Analysis Project
-- 📈 Excel Sales Dashboard
-- 📊 Employee Analytics Dashboard
-
----
-
-## 📸 Portfolio Preview
-
-The website includes:
-
-- About Me
-- Skills
-- Projects
-- Contact Form
-- Social Media Links
-
----
-
-## 📬 Contact
-
-- 📧 Email: mannimalasrinu@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/srinu-mannimala-901bb436a/
-- 🐙 GitHub: https://github.com/mannimalasrinu
-- 📷 Instagram: https://www.instagram.com/srinu_mudhiraj___02
-
----
-
-## ⭐ Thank You
-
-If you like this project, don't forget to ⭐ star the repository.
+HTML5 · CSS3 · Vanilla JavaScript
